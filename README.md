@@ -33,7 +33,7 @@
 
 
 
-[![E-mail : arthurvinicius84@outlook.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](arthurvinicius84@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/arthurvinicius-dev/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-30A3DC?style=for-the-badge&logo=microsoft-outlook&logoColor=white&linck=mailto:arthurvinicius84@outlook.com)](mailto:arthurvinicius84@outlook.com)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&fontAlign=50&fontSize=60&&theme=tokyonight)
